@@ -70,7 +70,6 @@ checksum = "8452105ba047068f40ff7093dd1d9da90898e63dd61736462e9cdda6a90ad3c3"
 name = "nc-frontend-wasm"
 version = "0.1.0"
 dependencies = [
- "cfg-if 0.1.10",
  "console_error_panic_hook",
  "wasm-bindgen",
  "web-sys",

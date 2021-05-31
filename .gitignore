@@ -6,3 +6,4 @@ crate/wasm-pack.log
 .cache
 .parcel-cache
 target
+.idea
