@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "nc-frontend-wasm",
+    "nc-sim",
 ]
 
 [profile.dev]
